@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo "input a file name"
+read var
+
+echo "#!/bin/bash" > ${var}
+chmod u+x ${var}
