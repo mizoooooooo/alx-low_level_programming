@@ -14,9 +14,16 @@ int main(void)
 	char CH = 'A';
 
 	/*prints a - z*/
+	while (ch <= 'z')
+	{
+		putchar(ch);
+		ch++;
+	}
+
+	/*prints A - Z*/
 	while (CH <= 'z')
 	{
-		putcher(CH);
+		putchar(CH);
 		CH++;
 	}
 	putchar('\n');
