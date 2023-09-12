@@ -6,7 +6,7 @@
  *main - Entry point
  *
  *Description: print the value of status:
- greater than,is zero and not less than 6
+ greater than,is zero and not less than 6.
  *
  *Return: Always 0 (success)
 */
