@@ -1,14 +1,13 @@
-#include <stdio.h>
-#include <stdlib.h>
 #include <main.h>
-int main(int argc, char argv[])
+/**
+ * print_alphabet - utilizes on the _putchar function to print
+ * 		   the alphabet a - z
+*/
+
+void print-alphabet(void)
 {
-	int ch = 'z';
-	while ('a' <= 'z')
-	{
-	j	putchar('a');
-		c++;
-	}
-	 putchar(\n);
-	 return (0);
+	int ch;
+	for (ch = 'a'; ch <= 'z'; ch++)
+		_putchar(ch);
+	_putchar('\n');
 }
