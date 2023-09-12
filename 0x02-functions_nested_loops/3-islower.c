@@ -5,6 +5,8 @@
  *
  * 0c: checks input of function
  *
+ * @c: c of type int
+ *
  * Return: returns 1 if 'c' is lowercase
  *	otherwise alwayes 0 (success)
 */
