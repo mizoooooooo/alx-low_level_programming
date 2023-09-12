@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * int _isalpha(int c); : function that checks for alphabetic
- * 			character
+ * _isalpha - checks if character is a letter
+ * 		both lowercase of uppercase
  *
- * 0c : takes input from another function
+ * 0c : takes input from another function.
  *
  * Return : 1 is c if true else 0
 */
