@@ -2,9 +2,9 @@
 
 /**
  * _isalpha - checks if character is a letter
- * 		both lowercase of uppercase
+ *		both lowercase of uppercase
  *
- * 0c : takes input from another function.
+ * @c : takes input from another function.
  *
  * Return : 1 is c if true else 0
 */
