@@ -21,7 +21,7 @@ void more_numbers(void)
 			y = x;
 			if (x > 9)
 			{
-				_putcahr(1 + 48);
+				_putchar(1 + 48);
 				y = x % 10;
 			}
 			_putchar(y + 48);
