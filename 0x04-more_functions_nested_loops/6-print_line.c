@@ -3,6 +3,8 @@
 /**
  * print_line -  draws a straight line in the terminal.
  *
+ * @n: is the number of times the ch _ print
+ *
  * Return: alwayes 0 (success)
 */
 
